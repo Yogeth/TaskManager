@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Yogeth React
+          Yogeth shajsjakakwk
         </a>
       </header>
     </div>
